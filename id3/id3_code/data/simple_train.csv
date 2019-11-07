@@ -1,0 +1,17 @@
+label,num-rooms,apt-condition,distance,price
+like,three,fair,> 5,< 500
+like,one,fair,1 to 5,< 500
+dislike,four,good,< 1,> 1000
+dislike,three,fair,< 1,< 500
+dislike,three,good,> 5,> 1000
+like,one,poor,1 to 5,< 500
+like,one,good,1 to 5,< 500
+dislike,three,excellent,< 1,> 1000
+dislike,two,fair,1 to 5,500 to 1000
+dislike,two,excellent,< 1,500 to 1000
+like,four,excellent,1 to 5,< 500
+like,two,good,< 1,< 500
+like,four,good,< 1,500 to 1000
+dislike,three,poor,< 1,< 500
+like,three,poor,> 5,< 500
+like,two,excellent,1 to 5,> 1000
